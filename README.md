@@ -5,7 +5,7 @@ A practice of tic-tac-toe using DOM
 
 CodePen URL : https://codepen.io/bobyin22/pen/KKeXrJr
 
-GitHub : 
+
 
 
 網頁說明：
