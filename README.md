@@ -1,4 +1,4 @@
-# DOM-tic-tac-toe
+# 實作：DOM圈圈叉叉動態遊戲
 A practice of tic-tac-toe using DOM
 
 網頁預覽：
